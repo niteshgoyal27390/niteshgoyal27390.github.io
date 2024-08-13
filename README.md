@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/niteshgoyal27390" target="blank"><img align="center" src="assets/linkedIn.svg" alt="niteshgoyal27390" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/niteshgoyal27390" target="blank"><img align="center" src="assets/stack-overflow.svg" alt="niteshgoyal27390" height="30" width="40" /></a>
-<a href="https://fb.com/niteshgoyal27390" target="blank"><img align="center" src="assets/facebook.svg" alt="niteshgoyal27390" height="30" width="40" /></a>
-<a href="https://medium.com/@niteshgoyal27390" target="blank"><img align="center" src="assets/medium.svg" alt="@niteshgoyal27390" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niteshgoyal27390" target="blank"><img align="center" src="./assets/linkedIn.svg" alt="niteshgoyal27390" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/niteshgoyal27390" target="blank"><img align="center" src="./assets/stack-overflow.svg" alt="niteshgoyal27390" height="30" width="40" /></a>
+<a href="https://fb.com/niteshgoyal27390" target="blank"><img align="center" src="./assets/facebook.svg" alt="niteshgoyal27390" height="30" width="40" /></a>
+<a href="https://medium.com/@niteshgoyal27390" target="blank"><img align="center" src="./assets/medium.svg" alt="@niteshgoyal27390" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
